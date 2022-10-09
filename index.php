@@ -58,6 +58,9 @@
           </form>
       </div>
       <!-- /.card-body -->
+      <div class="card-footer">
+        Belum punya akun? daftar !
+      </div>
     </div>
       <!-- <?php 
       if(isset($_GET['alert'])){
