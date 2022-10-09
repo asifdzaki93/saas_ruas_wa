@@ -52,7 +52,7 @@
             <div class="icheck-primary">
               <input type="checkbox" onchange="dapatLokasi()" id="lokasi" name="lokasi">
               <label for="lokasi">
-               Setuju Dengan <a href="#">Kebijakan</a>
+               <small>Setuju Dengan <a href="#">Kebijakan</a></small>
               </label>
             </div>
           </div>
@@ -94,7 +94,7 @@ function dapatLokasi() {
 }
 
 function tampilPosisi(position) {
-  x.innerHtml = position.coords.latitude + 
+  x.innerHtml = ""+position.coords.latitude + 
   "," + position.coords.longitude;
 }
 </script>

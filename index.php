@@ -23,7 +23,7 @@
       <a href="../../index2.html" class="h1"><b>Ruas WA</b> v2</a>
       </div>
       <div class="card-body">
-        <p class="login-box-msg">Silahkan Masuk Untuk Bertransaksi</p>
+        <p class="login-box-msg">Silahkan Masuk Untuk Melanjutkan</p>
 
           <form action="periksa_login.php" method="POST">
             
@@ -59,7 +59,9 @@
       </div>
       <!-- /.card-body -->
       <div class="card-footer">
-        Belum punya akun? daftar !
+        <i>Belum punya akun? </i>
+        <a href="register.php">Daftar !</a>
+        
       </div>
     </div>
       <!-- <?php 
