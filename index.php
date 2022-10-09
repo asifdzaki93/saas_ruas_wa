@@ -20,7 +20,7 @@
       <div class="card-header text-center">
       <!-- <img src="admin\pic\" alt="Silahkan Masuk Untuk Bertransaksi" style="width: 200px; height: auto;"> -->
       
-      <a href="../../index2.html" class="h1"><b>Admin</b>TES</a>
+      <a href="../../index2.html" class="h1"><b>Ruas WA</b> v2</a>
       </div>
       <div class="card-body">
         <p class="login-box-msg">Silahkan Masuk Untuk Bertransaksi</p>

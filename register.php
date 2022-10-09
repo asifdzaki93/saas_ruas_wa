@@ -7,7 +7,7 @@
 <body class="hold-transition register-page">
 <div class="register-box">
   <div class="register-logo">
-    <a href="../../index2.html"><b>Admin</b>TES</a>
+    <a href="../../index2.html"><b>Ruas WA</b>  v2</a>
   </div>
 
   <div class="card">
