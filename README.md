@@ -1,5 +1,5 @@
 # saas_ruas_wa
-first project with colaboration with other vendors
+first project colaboration with other vendors
 
 -register
 -login
