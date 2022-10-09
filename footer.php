@@ -3,10 +3,10 @@
 
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong><a href="#">Swalayan Hasbuna</a> Masa Khidmah &copy; 2020-2021.</strong>
+    <strong><a href="#">Ruas Digital</a> Copyright &copy; 2022-2023.</strong>
     
     <div class="float-right d-none d-sm-inline-block">
-      <b>Version</b> 0.0.2
+      <b>Version</b> 0.0.1
     </div>
   </footer>
 
